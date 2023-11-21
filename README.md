@@ -1,0 +1,2 @@
+# README
+I like people
