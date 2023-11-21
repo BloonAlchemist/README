@@ -1,2 +1,2 @@
 # README
-I like people
+I like learning about code and I like eating food
